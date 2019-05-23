@@ -3,7 +3,7 @@ int main()
 {
     int y;
     scanf("%d",&y);
-    if(year%4 == 0)
+    if(y%4 == 0)
     {
         if( y%100 == 0)
         {
